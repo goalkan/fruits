@@ -1,7 +1,0 @@
-person_name_last = input("Enter your last name please: ")
-person_name_first = input("Enter your first name please: ")
-person_age = input("Enter your age please: ")
-print("Hello Mr/Mrs " + person_name_last + ", " + person_name_first + "!")
-print("You are at the age of " + person_age + "!")
-print("Press any key to close the window!")
-input()
